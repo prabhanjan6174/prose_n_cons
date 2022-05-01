@@ -1,14 +1,10 @@
 # Sample site navigation bar links
 
 
-- title: ACE
-  url: /ace-mars/
+- title: Prose
+  url: /prose/
 
-- title: Blog
-  url: /blog/
-
-- title: Art
-  url: /art/
-
+#- title : Essay
+#  url: /essay/
 - title: Contact Us
   url: /contact/

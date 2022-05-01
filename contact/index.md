@@ -4,7 +4,7 @@ title: Contact Us
 
 search_omit: true
 ---
-
+```
 #### Any queries :
 Please send mail to info(at)slabs(dot)tech
 
@@ -19,3 +19,4 @@ S Labs  Solutions,
 <br>Kuruvinakoppa grama, TQ-Kalgatgi,Dist-Dharawada,
 <br>Karnataka, PIN 580114
 <br>India
+```
