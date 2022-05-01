@@ -2,7 +2,7 @@
 layout: post
 title: "Ode to Neils Bohr"
 excerpt: " Neils Bohr was always my favourite scientist. This one honours him"
-categories: Prose
+categories: prose
 tags: [ Dedicated ]
 
 date: 2021-05-02T08:0 8:50-04:00
