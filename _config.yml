@@ -19,7 +19,7 @@ locale: en-US
 title: "Prose n Cons"
 description: ""
 baseurl: # the subpath of your site, e.g. "/blog"
-url: https://prabhanjan6174.github.io
+url: https://prabhanjan6174.github.io/
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
@@ -30,8 +30,8 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-twitter:
-  username: slabstech
+instagram:
+  username: a_fine_man_reads_feynman
 
 # Liquid
 liquid:
