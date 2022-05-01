@@ -19,7 +19,7 @@ locale: en-US
 title: "Prose n Cons"
 description: "One place to bring them all (creative energies) and in a website bind them."
 baseurl: # the subpath of your site, e.g. "/blog"
-url: https://prabhanjan6174.github.io/prose_n_cons/
+url: https://prabhanjan6174.github.io/prose_n_cons
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
