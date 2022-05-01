@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ode to Neils Bohr"
-excerpt: ">> Neils Bohr was always my favourite scientist. This one honours him"
+excerpt: "> Neils Bohr was always my favourite scientist. This one honours him"
 categories: prose
 tags: [ prose ]
 
