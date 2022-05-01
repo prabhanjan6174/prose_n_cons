@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Us
+title: An Empty page
 
 search_omit: true
 ---
