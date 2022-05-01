@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Dark Man"
-excerpt: ""
+excerpt: "An ode to one of the finest bad guys ever written. The walking-dude is perhaps one of Stephen Kings most realistic monsters. The chills he inspires are next to no one, not even IT."
 categories: prose
 tags: [ prose ]
 
