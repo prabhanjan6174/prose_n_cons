@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prose
+title: Essays
 excerpt: 'Origin Stories'
 search_omit: true
 ---
