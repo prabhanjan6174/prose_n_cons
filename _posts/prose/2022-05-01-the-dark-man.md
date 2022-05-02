@@ -5,7 +5,7 @@ excerpt: " An ode to one of the finest bad guys ever written. The walking-dude i
 categories: prose
 tags: [ Dedicated ]
 
-date: 2021-05-01T08:0 8:50-04:00
+#date: 2021-05-01T08:0 8:50-04:00
 
 ---
 
