@@ -5,7 +5,7 @@ excerpt: " I wrote this piece in 2020. For now, this acts as a place holder"
 categories: essays
 tags: [ Minimalsim ]
 
-date: 2022-05-02T08:0 9:50-04:00
+date: 2021-05-02T08:0 9:50-04:00
 
 ---
 
