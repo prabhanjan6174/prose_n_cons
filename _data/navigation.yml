@@ -4,10 +4,8 @@
 - title: Prose
   url: /prose/
 
-#- title : Essay
-#  url: /essay/
+- title : Essay
+  url: /essays/
+
 - title: Contact Us
   url: /contact/
-
-- title: Essays
-  url: /essays
