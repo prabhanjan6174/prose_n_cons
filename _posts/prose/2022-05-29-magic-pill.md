@@ -3,7 +3,7 @@ layout: post
 title: "Magic Pill"
 excerpt: "A mindbending journey which was experienced or percieved to be experienced. Follow an unreliable narrator, in his train of thoughts. Beware you might lose the tracks."
 categories: prose
-tags: [ Dedicated ]
+tags: [ Surreal ]
 
 #date: 2022-05-29T08:0 8:50-04:00
 
